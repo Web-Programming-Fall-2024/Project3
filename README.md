@@ -1,4 +1,4 @@
-# Group 6 Project 3: My Game Show: Who Wants to be a Millionaire?
+# Group 6 Project 3: Fifteen Puzzle
 
 ## Group Member:
 
@@ -7,23 +7,39 @@
 ## Materials:
 
 - [Website]()
-- [Proposal](https://drive.google.com/file/d/1J1AwM-72H4JLY0y2EiyNHJk7un99HZOI/view?usp=sharing)
-- [PowerPoint](https://docs.google.com/presentation/d/1ojnzrA91P64LpFxKKsFdtH275hB0OKcZ/edit?usp=sharing&ouid=115868471783120857845&rtpof=true&sd=true)
+- [Proposal]()
+- [PowerPoint]()
 - [Video]()
 
 ## Project Summary:
 
-The project centers on developing a game show website inspired by "Who Wants to be a Millionaire?" The game will feature a homepage, user login, signup, and logout functionalities, along with a leaderboard to display user scores. Players can start the game from a dedicated page, which will host all the questions. CSS animations and transitions will enhance the interactive experience.
+This project focuses on developing an interactive sliding puzzle game known as
+the "Fifteen Puzzle." The game consists of a 4x4 grid of numbered tiles with one
+missing tile, where players aim to arrange the tiles in numerical order. It features
+user-friendly mechanics, visual feedback for movable tiles, and additional
+functionalities such as shuffle, multiple backgrounds, and an end-of-game
+notification to enhance player engagement.
 
 ## Key Features:
 
-- **Homepage**: Introduces users to the game and invites them to log in or sign up to participate. It will feature an interactive welcome animation.
-- **Login/Signup/Logout Pages**: Simple and user-friendly forms for account creation and authentication, guiding users smoothly through each process.
-- **Leaderboard**: Displays top players and their scores using an appealing table layout, encouraging friendly competition.
-- **Start Game Page**: Contains game’s core functionality, including the interactive question and answer interface. Each question will be displayed with answer options, and animations will provide feedback for correct or incorrect responses.
+- **Homepage:**: Introduces the Fifteen Puzzle game, offering an interactive welcome
+  animation. It briefly overviews the game rules and invites players to start playing.
+- **Game Page:**: Hosts the puzzle grid and game controls. This page includes:
+  Puzzle Grid: A 4x4 interactive grid displaying the tiles and blank space.
+  ○ Shuffle Button: Randomizes the puzzle into a solvable state for a new
+  game.
+  ○ Settings Panel: Allows users to choose different background themes or
+  adjust grid sizes.
+- **End-of-Game Page:**: Notifies the user when they successfully solve the puzzle,
+  showing elapsed time, the number of moves, and the best scores.
 
 ## Functionalities:
 
-- **Interactive Questions**: Each question will be displayed with options for players to choose from, and animations will indicate whether their choice is correct or incorrect.
-- **User Authentication**: Users can create an account, log in, and log out securely, with user data managed for personalized game experiences.
-- **Leaderboard Updates**: Scores will be updated in real-time on the leaderboard after each game session.
+- **Interactive Puzzle**: Users can click on a tile adjacent to the blank space to move it into the
+  empty position.
+  ○ Hovering over a movable tile changes its style (border turns red, text
+  underlined, text color changes to green).
+- **Shuffle Feature:**: Randomizes the tiles into a solvable configuration using
+  efficient algorithms.
+- **End-of-Game Notification:**: Displays a celebratory message or animation when
+  the puzzle is solved.
