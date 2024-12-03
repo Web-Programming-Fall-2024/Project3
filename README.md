@@ -17,7 +17,7 @@ This project focuses on developing an interactive sliding puzzle game known as t
 
 ## Setup:
 
-Please download the folder [assets](https://drive.google.com/drive/folders/1FJyAd-mUFIfSSWO7mGRQDURh6dJEvZAT?usp=drive_link) and put it in the root folder. Then, run this file ``.
+Please download the folder [assets](https://drive.google.com/drive/folders/1FJyAd-mUFIfSSWO7mGRQDURh6dJEvZAT?usp=drive_link) and put it in the root folder. Then, run this file `Project3/objective-c/index.html`.
 
 ## Key Features:
 
