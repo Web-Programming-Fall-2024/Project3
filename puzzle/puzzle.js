@@ -248,8 +248,8 @@ function beginWinAnimation() {
 function notifyWin() {
   stopBgMusic();
   beginWinAnimation();
-  new Audio("../assets/music/win.mp3").play();
   document.getElementById("title").innerText = "Congrats! You won!";
+  new Audio("../assets/music/win.mp3").play();
 }
 
 function startMusic() {
