@@ -9,7 +9,7 @@
 - [Website](https://codd.cs.gsu.edu/~nnguyen177/MyWebPro/Project3/objective-c/index.html)
 - [Proposal](https://drive.google.com/file/d/1MJOc_1o9nvO8rTBhJcKigGro_y3cSWbS/view?usp=sharing)
 - [PowerPoint](https://docs.google.com/presentation/d/1gCV34ijYuw9ZymO9bP8dZkjKEJym_8wf/edit?usp=sharing&ouid=115868471783120857845&rtpof=true&sd=true)
-- [Video]()
+- [Video](https://drive.google.com/file/d/1SWwyrkXIVQnVJyHJ9lIe0i2SCnOpYqIf/view?usp=sharing)
 
 ## Project Summary:
 
