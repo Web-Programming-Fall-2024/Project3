@@ -249,7 +249,7 @@ function notifyWin() {
   stopBgMusic();
   beginWinAnimation();
   document.getElementById("title").innerText = "Congrats! You won!";
-  new Audio("../assets/music/win.mp3").play();
+  new Audio("../assets/music/music4.mp3").play();
 }
 
 function startMusic() {
@@ -257,7 +257,6 @@ function startMusic() {
     "../assets/music/music1.mp3",
     "../assets/music/music2.mp3",
     "../assets/music/music3.mp3",
-    "../assets/music/music4.mp3",
   ];
   bgMusic = new Audio(m[Math.floor(Math.random() * 5)]);
   bgMusic.loop = true;
